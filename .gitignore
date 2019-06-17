@@ -1,1 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/workspace.xml
+demo3/src/main/resources/
+demo3/src/test/
+demo3/target/generated-sources/
